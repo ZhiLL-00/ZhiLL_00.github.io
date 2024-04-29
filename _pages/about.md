@@ -26,6 +26,8 @@ News
 
 #【2023-02】 One paper was accepted by IEEE Transactions on Vehicular Technology.
 
+#【2022-11】 Sponsored by 2022 IEEE ComSoc Student Grant
+
 #【2022-09】 I joined BJTU-MIMO!!!
 
 #【2022-08】 One paper was accepted by IEEE GLOBECOM 2022!
@@ -43,6 +45,10 @@ UCOM 2023 Excellent Graduate Student Awards, China Institute of Communications, 
 Third Prize in the 19th China Post-Graduate Mathematical Contest in Modeling, Association of Chinese Graduate Education, 2023
 
 Entrance Scholarship, Beijing Jiaotong University, 2022
+
+National Second Prize in National College Students Mathematical Contest in Modeling, 2020
+
+National Scholarship, Ministry of Education of China, 2020
 
 
 Academic Services
