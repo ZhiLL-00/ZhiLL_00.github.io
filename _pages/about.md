@@ -16,6 +16,8 @@ If you have any questions or have an interest in collaborating with me, please f
 
 News
 ======
+#【2024-02】 One paper was submitted to IEEE JSAC.
+
 #【2023-09】 One paper was accepted by IEEE Wireless Communications Magazine!
 
 #【2023-09】 One paper was accepted by IEEE Transactions on Wireless Communications with my guidance!
