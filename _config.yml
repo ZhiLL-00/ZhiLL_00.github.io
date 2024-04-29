@@ -12,7 +12,7 @@ title                    : "Zhilong Liu's Website"
 title_separator          : "-"
 name                     : &name "Zhilong Liu"
 description              : &description "Ph.D. Candidate"
-url                      : https://ZhiLL_00.github.io/ 
+url                      : https://zhill-00.github.io/ZhiLL_00.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ZhiLL-00/ZhiLL_00.github.io"
 
