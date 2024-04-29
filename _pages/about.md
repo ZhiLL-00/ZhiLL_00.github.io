@@ -17,6 +17,7 @@ If you have any questions or have an interest in collaborating with me, please f
 News
 ======
 #【2022-08】 One paper was accepted by IEEE GLOBECOM 2022!
+
 #【2022-09】 I joined BJTU-MIMO!!
 
 Awards
@@ -26,11 +27,6 @@ Awards
 Academic Services
 ======
 
-
----
-
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2xlkQUsEI7D_xiq21dSXpX29Qkh92cncUqCd1YAFllE&cl=ffffff&w=a"></script>
 
 
 
