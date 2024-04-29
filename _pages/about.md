@@ -48,6 +48,7 @@ Entrance Scholarship, Beijing Jiaotong University, 2022
 Academic Services
 ======
 TPC Member, IEEE VTC2023-Fall: Hong Kong, Electric Vehicles, Vehicular Electronics and Intelligent Transportation
+
 TPC Member, IEEE VTC2024-Fall: Washington DC, Electric Vehicles, Vehicular Electronics and Intelligent Transportation
 
 Reviewer: IEEE TCOM, TVT, WCL, GLOBECOM and more.
