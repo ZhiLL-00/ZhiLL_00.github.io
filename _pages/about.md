@@ -16,9 +16,19 @@ If you have any questions or have an interest in collaborating with me, please f
 
 News
 ======
-#【2022-08】 One paper was accepted by IEEE GLOBECOM 2022!
+#【2023-09】 One paper was accepted by IEEE Wireless Communications Magazine!
 
-#【2022-09】 I joined BJTU-MIMO!!
+#【2023-09】 One paper was accepted by IEEE Transactions on Wireless Communications with my guidance!
+
+#【2023-06】 One paper was accepted by UCOM 2023!
+
+#【2023-02】 One paper was accepted by IEEE INFOCOM 2023 with my guidance!
+
+#【2023-02】 One paper was accepted by IEEE Transactions on Vehicular Technology.
+
+#【2022-09】 I joined BJTU-MIMO!!!
+
+#【2022-08】 One paper was accepted by IEEE GLOBECOM 2022!
 
 Awards
 ======
