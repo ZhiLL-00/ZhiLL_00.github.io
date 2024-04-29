@@ -32,11 +32,25 @@ News
 
 Awards
 ======
+National Scholarship, Ministry of Education of China, 2023
+
+Third Prize in the 18th China Graduate Electronics Design Contest, Association of Chinese Graduate Education, 2023
+
+UCOM 2023 Best Paper Awards, China Institute of Communications, 2023
+
+UCOM 2023 Excellent Graduate Student Awards, China Institute of Communications, 2023
+
+Third Prize in the 19th China Post-Graduate Mathematical Contest in Modeling, Association of Chinese Graduate Education, 2023
+
+Entrance Scholarship, Beijing Jiaotong University, 2022
 
 
 Academic Services
 ======
+TPC Member, IEEE VTC2023-Fall: Hong Kong, Electric Vehicles, Vehicular Electronics and Intelligent Transportation
+TPC Member, IEEE VTC2024-Fall: Washington DC, Electric Vehicles, Vehicular Electronics and Intelligent Transportation
 
+Reviewer: IEEE TCOM, TVT, WCL, GLOBECOM and more.
 
 
 
