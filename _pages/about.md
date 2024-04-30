@@ -16,23 +16,23 @@ If you have any questions or have an interest in collaborating with me, please f
 
 News
 ======
-#【2024-02】 One paper was submitted to <font color="#FFEFD5">***IEEE JSAC***</font>.
+#【2024-02】 One paper was submitted to ***IEEE JSAC***.
 
-#【2023-09】 One paper was accepted by ***IEEE Wireless Communications Magazine***!
+#【2023-09】 One paper was accepted by ***IEEE Wireless Communications Magazine***.
 
-#【2023-09】 One paper was accepted by ***IEEE Transactions on Wireless Communications*** with my guidance!
+#【2023-09】 One paper was accepted by ***IEEE Transactions on Wireless Communications*** with my guidance.
 
-#【2023-06】 One paper was accepted by ***UCOM 2023***!
+#【2023-06】 One paper was accepted by ***UCOM 2023***.
 
-#【2023-02】 One paper was accepted by ***IEEE INFOCOM 2023*** with my guidance!
+#【2023-02】 One paper was accepted by ***IEEE INFOCOM 2023*** with my guidance.
 
 #【2023-02】 One paper was accepted by ***IEEE Transactions on Vehicular Technology***.
 
-#【2022-11】 Sponsored by 2022 ***IEEE ComSoc Student Grant***
+#【2022-11】 Sponsored by 2022 ***IEEE ComSoc Student Travel Grant***.
 
 #【2022-09】 I joined BJTU-MIMO!!!
 
-#【2022-08】 One paper was accepted by ***IEEE GLOBECOM 2022***!
+#【2022-08】 One paper was accepted by ***IEEE GLOBECOM 2022***.
 
 Awards
 ======
@@ -46,7 +46,7 @@ Awards
 
 **National Third Prize in the 19th China Post-Graduate Mathematical Contest in Modeling**, Association of Chinese Graduate Education, 2023
 
-**IEEE ComSoc Student Grant**, IEEE, 2022
+**IEEE ComSoc Student Travel Grant**, IEEE ComSoc, 2022
 
 **Entrance Scholarship**, Beijing Jiaotong University, 2022
 
