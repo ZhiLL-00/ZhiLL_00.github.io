@@ -11,28 +11,28 @@ I'm pursuing my Ph.D. degree with the [School of Electronic and Information Engi
 
 My research primarily focuses on next-generation MIMO technology, including **extremely large-scale MIMO (XL-MIMO)** and **cell-free massive MIMO (CF mMIMO)**. Our key objective is to explore <font color="#C93756">"performance analysis and efficient design for next-generation MIMO systems"</font>. If you are interested in our work, you can refer to this [repository](https://github.com/BJTU-MIMO) and WeChat official account (ID: BJTU MIMO) for the latest updates of our group!
 
-If you have any questions or have an interest in collaborating with me, please feel free to email me (zhilongliu@bjtu.edu.cn)!
+If you have any questions or have an interest in collaborating with me, please feel free to contact me (zhilongliu@bjtu.edu.cn)!
 
 
 News
 ======
-#【2024-02】 One paper was submitted to *IEEE JSAC*.
+#【2024-02】 One paper was submitted to ***IEEE JSAC***.
 
-#【2023-09】 One paper was accepted by *IEEE Wireless Communications Magazine*!
+#【2023-09】 One paper was accepted by ***IEEE Wireless Communications Magazine***!
 
-#【2023-09】 One paper was accepted by *IEEE Transactions on Wireless Communications* with my guidance!
+#【2023-09】 One paper was accepted by ***IEEE Transactions on Wireless Communications*** with my guidance!
 
-#【2023-06】 One paper was accepted by *UCOM 2023*!
+#【2023-06】 One paper was accepted by ***UCOM 2023***!
 
-#【2023-02】 One paper was accepted by *IEEE INFOCOM 2023* with my guidance!
+#【2023-02】 One paper was accepted by ***IEEE INFOCOM 2023*** with my guidance!
 
-#【2023-02】 One paper was accepted by *IEEE Transactions on Vehicular Technology*.
+#【2023-02】 One paper was accepted by ***IEEE Transactions on Vehicular Technology***.
 
-#【2022-11】 Sponsored by 2022 *IEEE ComSoc Student Grant*
+#【2022-11】 Sponsored by 2022 ***IEEE ComSoc Student Grant***
 
 #【2022-09】 I joined BJTU-MIMO!!!
 
-#【2022-08】 One paper was accepted by *IEEE GLOBECOM 2022*!
+#【2022-08】 One paper was accepted by ***IEEE GLOBECOM 2022***!
 
 Awards
 ======
