@@ -9,14 +9,14 @@ redirect_from:
 
 I'm pursuing my Ph.D. degree with the [School of Electronic and Information Engineering](http://eie.bjtu.edu.cn/), Beijing Jiaotong University, China, since Sep/2022. I am fortunate to be advised by Prof. [Jiayi Zhang](https://sites.google.com/site/jiayizhang8650/). 
 
-My research primarily focuses on next-generation MIMO technology, including **extremely large-scale MIMO (XL-MIMO)** and **cell-free massive MIMO (CF mMIMO)**. Our key objective is to explore <font color="#C93756">"performance analysis and efficient design for next-generation MIMO systems"</font>. If you are interested in our work, you can refer to this [repository](https://github.com/BJTU-MIMO) and WeChat official account (ID: BJTU MIMO) for the latest updates of our group!
+My research primarily focuses on next-generation MIMO technology, including **extremely large-scale MIMO (XL-MIMO)** and **cell-free massive MIMO (CF-mMIMO)**. Our key objective is to explore <font color="#C93756">"performance analysis and efficient design for next-generation MIMO systems"</font>. If you are interested in our work, you can refer to this [repository](https://github.com/BJTU-MIMO) and WeChat official account (ID: BJTU MIMO) for the latest updates of our group!
 
 If you have any questions or have an interest in collaborating with me, please feel free to contact me (zhilongliu@bjtu.edu.cn)!
 
 
 News
 ======
-#【2024-02】 One paper was submitted to ***IEEE JSAC***.
+#【2024-02】 One paper was submitted to <font color="#FFEFD5">***IEEE JSAC***</font>.
 
 #【2023-09】 One paper was accepted by ***IEEE Wireless Communications Magazine***!
 
