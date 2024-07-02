@@ -16,7 +16,13 @@ If you have any questions or have an interest in collaborating with me, please f
 
 News
 ======
-#【2024-02】 One paper was submitted to ***IEEE JSAC***.
+#【2024-06】 One paper was submitted to ***IEEE TWC***.
+
+#【2024-06】 One paper guided by me was accepted by ***UCOM 2023***.
+
+#【2024-06】 One paper uoauthored was accepted by ***IEEE TCOM***.
+
+#【2024-05】 One paper was submitted to ***IEEE TWC***.
 
 #【2023-09】 One paper was accepted by ***IEEE Wireless Communications Magazine***.
 
