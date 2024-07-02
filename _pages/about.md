@@ -18,9 +18,11 @@ News
 ======
 #【2024-06】 One paper was submitted to ***IEEE TWC***.
 
-#【2024-06】 One paper guided by me was accepted by ***UCOM 2023***.
+#【2024-06】 One paper guided by me was accepted by ***UCOM 2024***.
 
 #【2024-06】 One paper uoauthored was accepted by ***IEEE TCOM***.
+
+#【2024-06】 One paper uoauthored was accepted by ***IEEE WCM***.
 
 #【2024-05】 One paper was submitted to ***IEEE TWC***.
 
