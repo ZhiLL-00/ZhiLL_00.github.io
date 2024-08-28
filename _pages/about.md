@@ -44,6 +44,8 @@ News
 
 Awards
 ======
+**CSC Scholarship-Visting PhD Student**, 2024 (Foreign Advisor: Arumugam Nallanathan)
+
 **National Scholarship**, Ministry of Education of China, 2023
 
 **National Third Prize in the 18th China Graduate Electronics Design Contest**, Association of Chinese Graduate Education, 2023
@@ -82,7 +84,7 @@ Published Papers
 
 [4] **Zhilong Liu**, Z. Liu, X. Wang, J. Li, J. Zhang and B. Ai, "Antenna Selection of Cell-Free XL-MIMO Systems with Multi-Agent Reinforcement Learning," Ucom, 2023. (大会最佳论文)
 
-[5] **Zhilong Liu**, J. Zhang, Z. Liu, H. Du, Z. Wang, D. Niyato, M. Guizani and B. Ai, "Cell-Free XL-MIMO Meets Multi-Agent Reinforcement Learning: Architectures, Challenges, and Future Directions", IEEE Wireless Commun., early access, 2024. (SCI期刊, An1区, 影响因子: 12.777）
+[5] **Zhilong Liu**, J. Zhang, Z. Liu, H. Du, Z. Wang, D. Niyato, M. Guizani and B. Ai, "Cell-Free XL-MIMO Meets Multi-Agent Reinforcement Learning: Architectures, Challenges, and Future Directions", IEEE Wireless Commun., vol. 31, no. 4, pp. 155-162, 2024. (SCI期刊, An1区, 影响因子: 12.777）
 
 [6] Z. Liu, J. Zhang, **Zhilong Liu**, H. Xiao and B. Ai "Double-Layer Power Control for Mobile Cell-Free XL-MIMO with Multi-Agent Reinforcement Learning", IEEE Trans. Wireless Commun., early access, 2024. (SCI检索, An2区, 影响因子: 10.4)
 
