@@ -7,16 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm pursuing my Ph.D. degree with the [School of Electronic and Information Engineering](http://eie.bjtu.edu.cn/), Beijing Jiaotong University, China, since Sep/2022. I am fortunate to be advised by Prof. [Jiayi Zhang](https://sites.google.com/site/jiayizhang8650/). 
+I'm pursuing my Ph.D. degree with the [School of Electronic and Information Engineering](http://eie.bjtu.edu.cn/), Beijing Jiaotong University, China, since Sep/2022. I am fortunate to be advised by Prof. [***Jiayi Zhang***](https://sites.google.com/site/jiayizhang8650/). Sponsored by CSC, I am co-supervised by ***IEEE Fellow*** Prof. [***Arumugam Nallanathan***](https://www.eecs.qmul.ac.uk/~nalla/) from Jan. 2025 to Jan. 2026.
 
 My research primarily focuses on next-generation MIMO technology, including **extremely large-scale MIMO (XL-MIMO)** and **cell-free massive MIMO (CF-mMIMO)**. Our key objective is to explore <font color="#C93756">"performance analysis and efficient design for next-generation MIMO systems"</font>. If you are interested in our work, you can refer to this [repository](https://github.com/BJTU-MIMO) and WeChat official account (ID: BJTU MIMO) for the latest updates of our group!
 
 If you have any questions or have an interest in collaborating with me, please feel free to contact me (zhilongliu@bjtu.edu.cn)!
 
-
 News
 ======
-#【2024-06】 One paper was submitted to ***IEEE TWC***.
+#【2025-01】 One paper was submitted to ***IEEE TCOM***.
+
+#【2024-06】 One paper was submitted to ***IEEE TWC***. (R2. Minor Revision)
 
 #【2024-06】 One paper guided by me was accepted by ***UCOM 2024***.
 
@@ -24,7 +25,7 @@ News
 
 #【2024-06】 One paper uoauthored was accepted by ***IEEE WCM***.
 
-#【2024-05】 One paper was submitted to ***IEEE TWC***.
+#【2024-05】 One paper was submitted to ***IEEE TWC***. (R1. Major Revision)
 
 #【2023-09】 One paper was accepted by ***IEEE Wireless Communications Magazine***.
 
@@ -44,7 +45,7 @@ News
 
 Awards
 ======
-**CSC Scholarship-Visting PhD Student**, 2024 (Foreign Advisor: Arumugam Nallanathan)
+**CSC Scholarship-Visting PhD Student**, 2024 (Co-supervisor: Arumugam Nallanathan)
 
 **National Scholarship**, Ministry of Education of China, 2023
 
