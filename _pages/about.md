@@ -15,6 +15,8 @@ If you have any questions or have an interest in collaborating with me, please f
 
 News
 ======
+#【2025-02】 One paper was acceoted by ***IEEE TWC***.
+
 #【2025-01】 One paper was submitted to ***IEEE TCOM***.
 
 #【2024-06】 One paper was submitted to ***IEEE TWC***. (R2. Minor Revision)
