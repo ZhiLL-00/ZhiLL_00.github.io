@@ -15,11 +15,9 @@ If you have any questions or are interested in collaborating with me, please fee
 
 News
 ======
-#【2025-03】 One paper was submitted to ***IEEE TVT***.
+#【2025-04】 One paper was submitted to ***IEEE TVT***.
 
-#【2025-03】 One paper was submitted to ***IEEE WCM***.
-
-#【2025-03】 One paper was submitted to ***IEEE WCM***.
+#【2025-04】 One paper was submitted to ***IEEE WCM***.
 
 #【2025-03】 Two papers were submitted to ***IEEE SPAWC 2025***.
 
