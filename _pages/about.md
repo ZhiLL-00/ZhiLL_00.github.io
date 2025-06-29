@@ -15,6 +15,8 @@ If you have any questions or are interested in collaborating with me, please fee
 
 News
 ======
+#【2025-06】 One paper was accepted by ***IEEE TCOM***.
+
 #【2025-06】 One paper was accepted by ***IEEE TWC***.
 
 #【2025-02】 One paper was accepted by ***IEEE TWC***. 
@@ -74,30 +76,31 @@ Academic Services
 
 Published Papers
 ======
+[1] **Z. Liu**, J. Zhang, J. Zheng, D. W. K. Ng, A. Nallanathan, and B. Ai, Distributed URLLC Beamforming for Partially Connected Cell-Free Massive MIMO Systems with Scalable Graph Neural Networks, IEEE Trans. Commun., early access, 2025.
 
-[1]	**Z. Liu**, J. Zhang, B. Xu, D. W. K. Ng, A. Nallanathan, and B. Ai, GCN-based Low-complexity Downlink Beamforming for Cell-Free Massive MIMO Systems with Partially Coherent Joint Transmission, IEEE Trans. Wireless Commun., early access, 2025. 
+[2]	**Z. Liu**, J. Zhang, B. Xu, D. W. K. Ng, A. Nallanathan, and B. Ai, GCN-based Low-complexity Downlink Beamforming for Cell-Free Massive MIMO Systems with Partially Coherent Joint Transmission, IEEE Trans. Wireless Commun., early access, 2025. 
 
-[2]	**Z. Liu**, J. Zhang, Z. Yong, and B. Ai, Energy-Efficient Multi-agent Reinforcement Learning for UAV Trajectory Optimization in Cell-Free Massive MIMO Networks, IEEE Trans. Wireless Commun., early access, 2025.
+[3]	**Z. Liu**, J. Zhang, Z. Yong, and B. Ai, Energy-Efficient Multi-agent Reinforcement Learning for UAV Trajectory Optimization in Cell-Free Massive MIMO Networks, IEEE Trans. Wireless Commun., early access, 2025.
 
-[3]	**Z. Liu**, J. Zhang, Z. Liu, H. Du, Z. Wang, D. Niyato, M. Guizani and B. Ai, Cell-Free XL-MIMO Meets Multi-Agent Reinforcement Learning: Architectures, Challenges, and Future Directions, IEEE Wireless Commun., vol. 31, no. 4, pp. 155-162, Aug. 2024.
+[4]	**Z. Liu**, J. Zhang, Z. Liu, H. Du, Z. Wang, D. Niyato, M. Guizani and B. Ai, Cell-Free XL-MIMO Meets Multi-Agent Reinforcement Learning: Architectures, Challenges, and Future Directions, IEEE Wireless Commun., vol. 31, no. 4, pp. 155-162, Aug. 2024.
 
-[4]	**Z. Liu**, J. Zhang, Z. Wang, X. Zhang, H. Xiao and B. Ai, Cell-Free Massive MIMO With Mixed-Resolution ADCs and I/Q Imbalance Over Rician Spatially Correlated Channels, IEEE Trans. Veh. Technol., vol. 72, no. 7, pp. 9567-9572, Jul. 2023.
+[5]	**Z. Liu**, J. Zhang, Z. Wang, X. Zhang, H. Xiao and B. Ai, Cell-Free Massive MIMO With Mixed-Resolution ADCs and I/Q Imbalance Over Rician Spatially Correlated Channels, IEEE Trans. Veh. Technol., vol. 72, no. 7, pp. 9567-9572, Jul. 2023.
 
-[5]	**Z. Liu**, J. Zhang, Z. Wang, B. Ai and D. W. K. Ng, Cell-Free Massive MIMO with Low-Resolution ADCs and I/Q Imbalance over Spatially Correlated Channels, in Proc. IEEE GLOBECOM, pp. 2450-2455, 2022. （IEEE ComSoc Student Grant)
+[6]	**Z. Liu**, J. Zhang, Z. Wang, B. Ai and D. W. K. Ng, Cell-Free Massive MIMO with Low-Resolution ADCs and I/Q Imbalance over Spatially Correlated Channels, in Proc. IEEE GLOBECOM, pp. 2450-2455, 2022. （IEEE ComSoc Student Grant)
 
-[6]	**Z. Liu**, Z. Liu, X. Wang, J. Li, J. Zhang and B. Ai, Antenna Selection of Cell-Free XL-MIMO Systems with Multi-Agent Reinforcement Learning, in 2023 International Conference on Ubiquitous Communication (Ucom), pp. 379-383, 2023. (最佳论文奖、优秀研究生奖）
+[7]	**Z. Liu**, Z. Liu, X. Wang, J. Li, J. Zhang and B. Ai, Antenna Selection of Cell-Free XL-MIMO Systems with Multi-Agent Reinforcement Learning, in 2023 International Conference on Ubiquitous Communication (Ucom), pp. 379-383, 2023. (最佳论文奖、优秀研究生奖）
 
-[7]	Z. Liu, **Z. Liu**, J. Zhang, H. Xiao, B. Ai and D. W. K. Ng, Uplink Power Control for Extremely Large-Scale MIMO with Multi-Agent Reinforcement Learning and Fuzzy Logic, in Proc. IEEE INFOCOM, pp. 1-6, 2023. 
+[8]	Z. Liu, **Z. Liu**, J. Zhang, H. Xiao, B. Ai and D. W. K. Ng, Uplink Power Control for Extremely Large-Scale MIMO with Multi-Agent Reinforcement Learning and Fuzzy Logic, in Proc. IEEE INFOCOM, pp. 1-6, 2023. 
 
-[8]	Z. Liu, J. Zhang, **Z. Liu**, H. Xiao and B. Ai, Double-Layer Power Control for Mobile Cell-Free XL-MIMO with Multi-Agent Reinforcement Learning, IEEE Trans. Wireless Commun., vol. 23, no. 5, pp. 4658-4674, May 2024.
+[9]	Z. Liu, J. Zhang, **Z. Liu**, H. Xiao and B. Ai, Double-Layer Power Control for Mobile Cell-Free XL-MIMO with Multi-Agent Reinforcement Learning, IEEE Trans. Wireless Commun., vol. 23, no. 5, pp. 4658-4674, May 2024.
 
-[9]	Z. Liu, J. Zhang, E. Shi, **Z. Liu**, D. Niyato, and B. Ai, Graph Neural Network Meets Multi-Agent Reinforcement Learning: Fundamentals, Applications, and Future Directions, IEEE Wireless Commun., vol. 31, no. 6, pp. 39-47, Dec. 2024.
+[10]	Z. Liu, J. Zhang, E. Shi, **Z. Liu**, D. Niyato, and B. Ai, Graph Neural Network Meets Multi-Agent Reinforcement Learning: Fundamentals, Applications, and Future Directions, IEEE Wireless Commun., vol. 31, no. 6, pp. 39-47, Dec. 2024.
 
-[10]	Z. Liu, J. Zhang, **Z. Liu**, D. W. K. Ng and B. Ai, Joint Cooperative Clustering and Power Control for Energy-Efficient Cell-Free XL-MIMO with Multi-Agent Reinforcement Learning, IEEE Trans. Commun., vol. 72, no. 12, pp. 7772-7786, Dec. 2024.
+[11]	Z. Liu, J. Zhang, **Z. Liu**, D. W. K. Ng and B. Ai, Joint Cooperative Clustering and Power Control for Energy-Efficient Cell-Free XL-MIMO with Multi-Agent Reinforcement Learning, IEEE Trans. Commun., vol. 72, no. 12, pp. 7772-7786, Dec. 2024.
 
-[11]	X. Zhang, **Z. Liu**, J. Zhang, B. Ai, Joint UAV Trajectory and Power Optimization in Cell-Free mMIMO Systems With Deep Q-Network, in 2024 International Conference on Ubiquitous Communication (Ucom), pp. 395-399, 2024.
+[12]	X. Zhang, **Z. Liu**, J. Zhang, B. Ai, Joint UAV Trajectory and Power Optimization in Cell-Free mMIMO Systems With Deep Q-Network, in 2024 International Conference on Ubiquitous Communication (Ucom), pp. 395-399, 2024.
 
-[12]	H. Lei, J. Zhang, **Z. Liu**, H. Xiao, B. Ai, D. W. K. Ng, and A. Nallanathan, Mixed Model- and Data-Driven Spatial Non-Stationary Channel Estimation for Near-Field XL-MIMO Systems, IEEE SPAWC 2025, accepted.
+[13]	H. Lei, J. Zhang, **Z. Liu**, H. Xiao, B. Ai, D. W. K. Ng, and A. Nallanathan, Mixed Model- and Data-Driven Spatial Non-Stationary Channel Estimation for Near-Field XL-MIMO Systems, IEEE SPAWC 2025, accepted.
 
 
 
