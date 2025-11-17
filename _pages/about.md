@@ -45,6 +45,8 @@ News
 
 Awards
 ======
+**National Scholarship**, Ministry of Education of China, 2025
+
 **CSC Scholarship-Visting PhD Student**, 2024 (Co-supervisor: Arumugam Nallanathan)
 
 **National Scholarship**, Ministry of Education of China, 2023
@@ -76,7 +78,8 @@ Academic Services
 
 Published Papers
 ======
-[1] **Z. Liu**, J. Zhang, J. Zheng, D. W. K. Ng, A. Nallanathan, and B. Ai, Distributed URLLC Beamforming for Partially Connected Cell-Free Massive MIMO Systems with Scalable Graph Neural Networks, IEEE Trans. Commun., early access, 2025.
+**Journal**:
+[1] **Z. Liu**, J. Zhang, J. Zheng, D. W. K. Ng, A. Nallanathan, and B. Ai, Distributed URLLC Beamforming for Partially Connected Cell-Free Massive MIMO Systems with Scalable Graph Neural Networks, IEEE Trans. Commun., vol. 73, no. 11, pp. 11992-12007, Nov. 2025.
 
 [2]	**Z. Liu**, J. Zhang, B. Xu, D. W. K. Ng, A. Nallanathan, and B. Ai, GCN-based Low-complexity Downlink Beamforming for Cell-Free Massive MIMO Systems with Partially Coherent Joint Transmission, IEEE Trans. Wireless Commun., early access, 2025. 
 
@@ -88,6 +91,7 @@ Published Papers
 
 [6]	**Z. Liu**, J. Zhang, Z. Wang, B. Ai, and D. W. K. Ng, Cell-Free Massive MIMO with Low-Resolution ADCs and I/Q Imbalance over Spatially Correlated Channels, in Proc. IEEE GLOBECOM, pp. 2450-2455, 2022. （IEEE ComSoc Student Grant)
 
+**Conference**
 [7]	**Z. Liu**, Z. Liu, X. Wang, J. Li, J. Zhang, and B. Ai, Antenna Selection of Cell-Free XL-MIMO Systems with Multi-Agent Reinforcement Learning, in 2023 International Conference on Ubiquitous Communication (Ucom), pp. 379-383, 2023. (最佳论文奖、优秀研究生奖）
 
 [8]	Z. Liu, **Z. Liu**, J. Zhang, H. Xiao, B. Ai, and D. W. K. Ng, Uplink Power Control for Extremely Large-Scale MIMO with Multi-Agent Reinforcement Learning and Fuzzy Logic, in Proc. IEEE INFOCOM, pp. 1-6, 2023. 
