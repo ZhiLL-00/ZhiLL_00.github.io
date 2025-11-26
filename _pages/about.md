@@ -110,6 +110,20 @@ Published Papers
 
 [5]	H. Lei, J. Zhang, **Z. Liu**, H. Xiao, B. Ai, D. W. K. Ng, and A. Nallanathan, Mixed Model- and Data-Driven Spatial Non-Stationary Channel Estimation for Near-Field XL-MIMO Systems, IEEE SPAWC 2025.
 
+**Submitted**
+
+[1] **Z. Liu**, J. Zhang, B. Xu, J. Zheng, A. Nallanathan, and B. Ai, Double-Layer Over-the-Air AP Synchronization Scheme for Cell-free Massive MIMO Systems, IEEE Trans. Wireless Commun., submitted.
+
+[2] J. Yang, J. Zhang, B. Xu, J. Zheng, **Z. Liu**, Z. Liu, D. Niyato, M. Debbah, Z. Han, and B. Ai, White-Box AI Model: Next Frontier of Wireless Communications, IEEE Network, submitted.
+
+[3] Y. Zhang, J. Zhang, B. Xu, Y. Chen,**Z. Liu**, J. Zheng, E. Shi, Z. Liu, Rydberg Atomic Receivers for Wireless Communications: Fundamentals, Potential, Applications, and Challenges, IEEE Commun. Mag., submitted.
+
+[4] H. Lei, J. Zhang, **Z. Liu**, H. Xiao, B. Ai, D. W. K. Ng, and A. Nallanathan, Low-Complexity Channel Estimation for Spatial Non-Stationary XL-MIMO Systems: A Model-Based Deep Learning Approach, IEEE Trans. Commun., submitted.
+
+[5] H. Lei, J. Zhang, **Z. Liu**, H. Xiao, and B. Ai, Low-Complexity Receiver for Superimposed Pilots of MIMO-OFDM Multi-Layer Transmission with Multi-Dimensional Graph Neural Networks, IEEE Trans. Veh. Technol., submitted.
+
+[6] E. Shi, J. Zhang, **Z. Liu**, Z. Liu, A. Nallanathan, M. Debbah, S. Jin, and B. Ai, Stacked Intelligent Metasurfaces for 6G Wireless Networks: Principles, Applications, and Research Directions, IEEE Wireless Commun., submitted.
+
 
 
 
