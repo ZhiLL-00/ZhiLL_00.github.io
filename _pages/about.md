@@ -116,7 +116,7 @@ Published Papers
 
 [2] J. Yang, J. Zhang, B. Xu, J. Zheng, **Z. Liu**, Z. Liu, D. Niyato, M. Debbah, Z. Han, and B. Ai, White-Box AI Model: Next Frontier of Wireless Communications, IEEE Network, submitted.
 
-[3] Y. Zhang, J. Zhang, B. Xu, Y. Chen,**Z. Liu**, J. Zheng, E. Shi, Z. Liu, Rydberg Atomic Receivers for Wireless Communications: Fundamentals, Potential, Applications, and Challenges, IEEE Commun. Mag., submitted.
+[3] Y. Zhang, J. Zhang, B. Xu, Y. Chen, **Z. Liu**, J. Zheng, E. Shi, Z. Liu, Rydberg Atomic Receivers for Wireless Communications: Fundamentals, Potential, Applications, and Challenges, IEEE Commun. Mag., submitted.
 
 [4] H. Lei, J. Zhang, **Z. Liu**, H. Xiao, B. Ai, D. W. K. Ng, and A. Nallanathan, Low-Complexity Channel Estimation for Spatial Non-Stationary XL-MIMO Systems: A Model-Based Deep Learning Approach, IEEE Trans. Commun., submitted.
 
