@@ -15,6 +15,8 @@ If you have any questions or are interested in collaborating with me, please fee
 
 News
 ======
+#【2025-11】 One paper was accepted by ***IEEE TVT***.
+
 #【2025-06】 One paper was accepted by ***IEEE TCOM***.
 
 #【2025-06】 One paper was accepted by ***IEEE TWC***.
@@ -109,6 +111,8 @@ Published Papers
 [4]	X. Zhang, **Z. Liu**, J. Zhang, and B. Ai, Joint UAV Trajectory and Power Optimization in Cell-Free mMIMO Systems With Deep Q-Network, in 2024 International Conference on Ubiquitous Communication (Ucom), pp. 395-399, 2024.
 
 [5]	H. Lei, J. Zhang, **Z. Liu**, H. Xiao, B. Ai, D. W. K. Ng, and A. Nallanathan, Mixed Model- and Data-Driven Spatial Non-Stationary Channel Estimation for Near-Field XL-MIMO Systems, IEEE SPAWC 2025.
+
+[6] X. Zhang, J. Zhang, **Z. Liu**, J. Zheng, J. Xu, and B. Ai, Joint Beamforming Design and Resource Allocation for URLLC in Cell-Free Massive MIMO Systems, IEEE Trans. Veh. Technol., to appear, 2025.
 
 **Submitted**
 
