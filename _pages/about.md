@@ -50,11 +50,11 @@ News
 
 Awards
 ======
-**National Scholarship**, Ministry of Education of China, 2025
+**National Scholarship**, Ministry of Education of China, 2025 (国家奖学金)
 
 **CSC Scholarship-Visting PhD Student**, 2024 (Co-supervisor: Arumugam Nallanathan)
 
-**National Scholarship**, Ministry of Education of China, 2023
+**National Scholarship**, Ministry of Education of China, 2023 (国家奖学金)
 
 **National Third Prize in the 18th China Graduate Electronics Design Contest**, Association of Chinese Graduate Education, 2023
 
@@ -70,7 +70,7 @@ Awards
 
 **National Second Prize in National College Students Mathematical Contest in Modeling**, 2020
 
-**National Scholarship**, Ministry of Education of China, 2020
+**National Scholarship**, Ministry of Education of China, 2020 (国家奖学金)
 
 
 Academic Services
