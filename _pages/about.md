@@ -15,6 +15,9 @@ If you have any questions or are interested in collaborating with me, please fee
 
 News
 ======
+
+#【2025-12】 I was selected into the **PhD Student Special Program of the Youth Science and Technology Talent Cultivation Project of the China Association for Science and Technology （CAST)**. (中国科协青年科技人才培育工程博士生专项计划)
+
 #【2025-11】 One paper was accepted by ***IEEE TVT***.
 
 #【2025-06】 One paper was accepted by ***IEEE TCOM***.
