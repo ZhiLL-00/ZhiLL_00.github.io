@@ -98,13 +98,13 @@ Published Papers
 
 [6]	**Z. Liu**, J. Zhang, Z. Wang, X. Zhang, H. Xiao, and B. Ai, Cell-Free Massive MIMO With Mixed-Resolution ADCs and I/Q Imbalance Over Rician Spatially Correlated Channels, ***IEEE Trans. Veh. Technol.***, vol. 72, no. 7, pp. 9567-9572, Jul. 2023.
 
-[7]	**Z. Liu**, J. Zhang, Z. Wang, B. Ai, and D. W. K. Ng, Cell-Free Massive MIMO with Low-Resolution ADCs and I/Q Imbalance over Spatially Correlated Channels, ***in Proc. IEEE GLOBECOM***, pp. 2450-2455, 2022. （IEEE ComSoc Student Grant)
-
 **Conference:**
 
 [1]	**Z. Liu**, Z. Liu, X. Wang, J. Li, J. Zhang, and B. Ai, Antenna Selection of Cell-Free XL-MIMO Systems with Multi-Agent Reinforcement Learning, in 2023 International Conference on Ubiquitous Communication (Ucom), pp. 379-383, 2023. (最佳论文奖、优秀研究生奖）
 
-[2]	Z. Liu, **Z. Liu**, J. Zhang, H. Xiao, B. Ai, and D. W. K. Ng, Uplink Power Control for Extremely Large-Scale MIMO with Multi-Agent Reinforcement Learning and Fuzzy Logic, in Proc. IEEE INFOCOM, pp. 1-6, 2023. 
+[2]	**Z. Liu**, J. Zhang, Z. Wang, B. Ai, and D. W. K. Ng, Cell-Free Massive MIMO with Low-Resolution ADCs and I/Q Imbalance over Spatially Correlated Channels, ***in Proc. IEEE GLOBECOM***, pp. 2450-2455, 2022. （IEEE ComSoc Student Grant)
+
+[3]	Z. Liu, **Z. Liu**, J. Zhang, H. Xiao, B. Ai, and D. W. K. Ng, Uplink Power Control for Extremely Large-Scale MIMO with Multi-Agent Reinforcement Learning and Fuzzy Logic, in Proc. IEEE INFOCOM, pp. 1-6, 2023. 
 
 **Supervised and Co-authored** 
 
@@ -133,6 +133,9 @@ Published Papers
 [5] H. Lei, J. Zhang, **Z. Liu**, H. Xiao, and B. Ai, Low-Complexity Receiver for Superimposed Pilots of MIMO-OFDM Multi-Layer Transmission with Multi-Dimensional Graph Neural Networks, ***IEEE Trans. Veh. Technol.***, submitted.
 
 [6] E. Shi, J. Zhang, **Z. Liu**, Z. Liu, A. Nallanathan, M. Debbah, S. Jin, and B. Ai, Stacked Intelligent Metasurfaces for 6G Wireless Networks: Principles, Applications, and Research Directions, ***IEEE Wireless Commun.***, submitted.
+
+[7] Y. Jiang, J. Zhang, **Z. Liu**, C. Ouyang, J. Zheng, Y. Liu, A. Nallanathan, and B. Ai, Pinching Antennas-enabled Cell-free Massive MIMO: Two-Stage AP–UE Association and Pinching Beamforming Optimization, ***IEEE Trans. Veh. Technol.***, submitted.
+
 
 
 
