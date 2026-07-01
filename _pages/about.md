@@ -15,6 +15,8 @@ If you have any questions or are interested in collaborating with me, please fee
 
 News
 ======
+#【2026-07】 One paper was accepted by ***IEEE TWC***.
+
 #【2026-01】 One paper was accepted by ***IEEE TWC***.
 
 #【2025-12】 I was selected into the **PhD Student Special Program of the Youth Science and Technology Talent Cultivation Project of the China Association for Science and Technology （CAST)**. (中国科协青年科技人才培育工程博士生专项计划)
@@ -85,18 +87,19 @@ Academic Services
 Published Papers
 ======
 **Journal:**
+[1] **Z. Liu**, J. Zhang, E. Shi, H. Lei, Z. Liu, J. Wang, A. Nallanathan, and B. Ai, ``Wireless fronthauls in full-duplex cell-free massive MIMO systems,'' **IEEE Trans. Wireless Commun.**, to appear, 2026.
 
-[1] **Z. Liu**, J. Zhang, B. Xu, J. Zheng, A. Nallanathan, and B. Ai, Double-Layer Over-the-Air AP Synchronization Scheme for Cell-free Massive MIMO Systems, ***IEEE Trans. Wireless Commun.***, accepted.
+[2] **Z. Liu**, J. Zhang, B. Xu, J. Zheng, A. Nallanathan, and B. Ai, Double-Layer Over-the-Air AP Synchronization Scheme for Cell-free Massive MIMO Systems, ***IEEE Trans. Wireless Commun.***, vol. 25, pp. 12214-12229, 2026.
 
-[2] **Z. Liu**, J. Zhang, J. Zheng, D. W. K. Ng, A. Nallanathan, and B. Ai, Distributed URLLC Beamforming for Partially Connected Cell-Free Massive MIMO Systems with Scalable Graph Neural Networks, ***IEEE Trans. Commun.***, vol. 73, no. 11, pp. 11992-12007, Nov. 2025.
+[3] **Z. Liu**, J. Zhang, J. Zheng, D. W. K. Ng, A. Nallanathan, and B. Ai, Distributed URLLC Beamforming for Partially Connected Cell-Free Massive MIMO Systems with Scalable Graph Neural Networks, ***IEEE Trans. Commun.***, vol. 73, no. 11, pp. 11992-12007, Nov. 2025.
 
-[3]	**Z. Liu**, J. Zhang, B. Xu, D. W. K. Ng, A. Nallanathan, and B. Ai, GCN-based Low-complexity Downlink Beamforming for Cell-Free Massive MIMO Systems with Partially Coherent Joint Transmission, ***IEEE Trans. Wireless Commun.***, vol. 24, no. 12, pp. 10440-10455, Dec. 2025.  
+[4]	**Z. Liu**, J. Zhang, B. Xu, D. W. K. Ng, A. Nallanathan, and B. Ai, GCN-based Low-complexity Downlink Beamforming for Cell-Free Massive MIMO Systems with Partially Coherent Joint Transmission, ***IEEE Trans. Wireless Commun.***, vol. 24, no. 12, pp. 10440-10455, Dec. 2025.  
 
-[4]	**Z. Liu**, J. Zhang, Z. Yong, and B. Ai, Energy-Efficient Multi-agent Reinforcement Learning for UAV Trajectory Optimization in Cell-Free Massive MIMO Networks, ***IEEE Trans. Wireless Commun.***, vol. 24, no. 7, pp. 5917-5930, July 2025.
+[5]	**Z. Liu**, J. Zhang, Z. Yong, and B. Ai, Energy-Efficient Multi-agent Reinforcement Learning for UAV Trajectory Optimization in Cell-Free Massive MIMO Networks, ***IEEE Trans. Wireless Commun.***, vol. 24, no. 7, pp. 5917-5930, July 2025.
 
-[5]	**Z. Liu**, J. Zhang, Z. Liu, H. Du, Z. Wang, D. Niyato, M. Guizani, and B. Ai, Cell-Free XL-MIMO Meets Multi-Agent Reinforcement Learning: Architectures, Challenges, and Future Directions, ***IEEE Wireless Commun.***, vol. 31, no. 4, pp. 155-162, Aug. 2024.
+[6]	**Z. Liu**, J. Zhang, Z. Liu, H. Du, Z. Wang, D. Niyato, M. Guizani, and B. Ai, Cell-Free XL-MIMO Meets Multi-Agent Reinforcement Learning: Architectures, Challenges, and Future Directions, ***IEEE Wireless Commun.***, vol. 31, no. 4, pp. 155-162, Aug. 2024.
 
-[6]	**Z. Liu**, J. Zhang, Z. Wang, X. Zhang, H. Xiao, and B. Ai, Cell-Free Massive MIMO With Mixed-Resolution ADCs and I/Q Imbalance Over Rician Spatially Correlated Channels, ***IEEE Trans. Veh. Technol.***, vol. 72, no. 7, pp. 9567-9572, Jul. 2023.
+[7]	**Z. Liu**, J. Zhang, Z. Wang, X. Zhang, H. Xiao, and B. Ai, Cell-Free Massive MIMO With Mixed-Resolution ADCs and I/Q Imbalance Over Rician Spatially Correlated Channels, ***IEEE Trans. Veh. Technol.***, vol. 72, no. 7, pp. 9567-9572, Jul. 2023.
 
 **Conference:**
 
@@ -118,23 +121,21 @@ Published Papers
 
 [5]	H. Lei, J. Zhang, **Z. Liu**, H. Xiao, B. Ai, D. W. K. Ng, and A. Nallanathan, Mixed Model- and Data-Driven Spatial Non-Stationary Channel Estimation for Near-Field XL-MIMO Systems, ***IEEE SPAWC 2025***.
 
-[6] X. Zhang, J. Zhang, **Z. Liu**, J. Zheng, J. Xu, and B. Ai, Joint Beamforming Design and Resource Allocation for URLLC in Cell-Free Massive MIMO Systems, ***IEEE Trans. Veh. Technol.***, early access, 2025.
+[6] X. Zhang, J. Zhang, **Z. Liu**, J. Zheng, J. Xu, and B. Ai, Joint Beamforming Design and Resource Allocation for URLLC in Cell-Free Massive MIMO Systems, ***IEEE Trans. Veh. Technol.***, vol. 75, no.6, pp. 11704-11709, 2026.
+
+[7] J. Yang, J. Zhang, B. Xu, J. Zheng, **Z. Liu**, Z. Liu, D. Niyato, M. Debbah, Z. Han, and B. Ai, White-Box AI Model: Next Frontier of Wireless Communications, ***IEEE Network***, early access.
+
+[8] H. Lei, J. Zhang, **Z. Liu**, H. Xiao, B. Ai, D. W. K. Ng, and A. Nallanathan, Low-Complexity Channel Estimation for Spatial Non-Stationary XL-MIMO Systems: A Model-Based Deep Learning Approach, ***IEEE Trans. Commun.***, early access.
+
+[9] E. Shi, J. Zhang, **Z. Liu**, Z. Liu, A. Nallanathan, M. Debbah, S. Jin, and B. Ai, Stacked Intelligent Metasurfaces for 6G Wireless Networks: Principles, Applications, and Research Directions, ***IEEE Wireless Commun.***, early access.
+
+[10] X. Feng, J. Zhang, J. Zheng, E. Shi, **Z. Liu**, H. Xiao, and B. Ai, “Rate-splitting multiple access for cell-free massive MIMO-aided multi-static ISAC systems,” in Proc. IEEE ICC, 2026.
 
 **Submitted**
 
-[1] **Z. Liu**, J. Zhang, E. Shi, H. Lei, Z. Liu, J. Wang, A. Nallanathan, and B. Ai, Wireless Fronthauls in Full-Duplex Cell-free Massive MIMO Systems, ***IEEE Trans. Wireless Commun.***, submitted.
+[1] Y. Zhang, J. Zhang, B. Xu, Y. Chen, **Z. Liu**, J. Zheng, E. Shi, Z. Liu, Rydberg Atomic Receivers for Wireless Communications: Fundamentals, Potential, Applications, and Challenges, ***IEEE Commun. Mag.***, submitted.
 
-[2] J. Yang, J. Zhang, B. Xu, J. Zheng, **Z. Liu**, Z. Liu, D. Niyato, M. Debbah, Z. Han, and B. Ai, White-Box AI Model: Next Frontier of Wireless Communications, ***IEEE Network***, submitted.
-
-[3] Y. Zhang, J. Zhang, B. Xu, Y. Chen, **Z. Liu**, J. Zheng, E. Shi, Z. Liu, Rydberg Atomic Receivers for Wireless Communications: Fundamentals, Potential, Applications, and Challenges, ***IEEE Commun. Mag.***, submitted.
-
-[4] H. Lei, J. Zhang, **Z. Liu**, H. Xiao, B. Ai, D. W. K. Ng, and A. Nallanathan, Low-Complexity Channel Estimation for Spatial Non-Stationary XL-MIMO Systems: A Model-Based Deep Learning Approach, ***IEEE Trans. Commun.***, submitted.
-
-[5] H. Lei, J. Zhang, **Z. Liu**, H. Xiao, and B. Ai, Low-Complexity Receiver for Superimposed Pilots of MIMO-OFDM Multi-Layer Transmission with Multi-Dimensional Graph Neural Networks, ***IEEE Trans. Veh. Technol.***, submitted.
-
-[6] E. Shi, J. Zhang, **Z. Liu**, Z. Liu, A. Nallanathan, M. Debbah, S. Jin, and B. Ai, Stacked Intelligent Metasurfaces for 6G Wireless Networks: Principles, Applications, and Research Directions, ***IEEE Wireless Commun.***, submitted.
-
-[7] Y. Jiang, J. Zhang, **Z. Liu**, C. Ouyang, J. Zheng, Y. Liu, A. Nallanathan, and B. Ai, Pinching Antennas-enabled Cell-free Massive MIMO: Two-Stage AP–UE Association and Pinching Beamforming Optimization, ***IEEE Trans. Veh. Technol.***, submitted.
+[2] Y. Jiang, J. Zhang, **Z. Liu**, C. Ouyang, J. Zheng, Y. Liu, A. Nallanathan, and B. Ai, Pinching Antennas-enabled Cell-free Massive MIMO: Two-Stage AP–UE Association and Pinching Beamforming Optimization, ***IEEE Trans. Veh. Technol.***, submitted.
 
 
 
