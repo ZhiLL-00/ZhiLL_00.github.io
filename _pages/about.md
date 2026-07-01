@@ -87,6 +87,7 @@ Academic Services
 Published Papers
 ======
 **Journal:**
+
 [1] **Z. Liu**, J. Zhang, E. Shi, H. Lei, Z. Liu, J. Wang, A. Nallanathan, and B. Ai, ``Wireless fronthauls in full-duplex cell-free massive MIMO systems,'' **IEEE Trans. Wireless Commun.**, to appear, 2026.
 
 [2] **Z. Liu**, J. Zhang, B. Xu, J. Zheng, A. Nallanathan, and B. Ai, Double-Layer Over-the-Air AP Synchronization Scheme for Cell-free Massive MIMO Systems, ***IEEE Trans. Wireless Commun.***, vol. 25, pp. 12214-12229, 2026.
