@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm pursuing my Ph.D. degree with the [School of Electronic and Information Engineering](http://eie.bjtu.edu.cn/), Beijing Jiaotong University, China, since Sep/2022. I am fortunate to be advised by Prof. [***Jiayi Zhang***](https://sites.google.com/site/jiayizhang8650/). Sponsored by CSC, I am co-supervised by ***IEEE Fellow*** Prof. [***Arumugam Nallanathan***](https://www.eecs.qmul.ac.uk/~nalla/) from Jan. 2025 to Jan. 2026.
+I have been pursuing my Ph.D. degree at the [School of Electronic and Information Engineering](http://eie.bjtu.edu.cn/), Beijing Jiaotong University, China, since September 2022, under the supervision of Prof. [***Jiayi Zhang***](https://sites.google.com/site/jiayizhang8650/). From January 2025 to January 2026, supported by the China Scholarship Council (CSC), I was a research associate co-supervised by ***IEEE Fellow*** Prof. [***Arumugam Nallanathan***](https://www.eecs.qmul.ac.uk/~nalla/).
+I am currently seeking postdoctoral opportunities in wireless communications, signal processing, and related areas. If you have a suitable opening or are interested in potential research collaboration, please feel free to contact me.
 
 My research primarily focuses on next-generation MIMO technology, including **extremely large-scale MIMO (XL-MIMO)** and **cell-free massive MIMO (CF-mMIMO)**. Our key objective is to explore <font color="#C93756">"performance analysis and efficient design for next-generation MIMO systems"</font>. If you are interested in our work, you can refer to this [repository](https://github.com/BJTU-MIMO) and WeChat official account (ID: BJTU MIMO) for the latest updates of our group!
 
