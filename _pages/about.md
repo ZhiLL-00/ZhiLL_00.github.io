@@ -143,3 +143,10 @@ Published Papers
 
 [1] R. Geng, B. Xu, Z. Liu, J. Zhang, and D. W. K. Ng, Deep Unfolding for Leakage-Constrained Temporal Null-Space Expansion in Cell-Free ISAC, ***submitted to IEEE ICC 2027***.
 
+[2] J. Zhang, Z. Liu, Y. Zhu, E. Shi, B. Xu, Z. Liu, Y. Chau, M. Debbah, S. Jin, B. Ai, and X. Shen, Multi-Agent Reinforcement Learning in Wireless Distributed Intelligent Networks, ***submitted to IEEE Communications Surveys and Tutorials***, major revision.
+
+[3] R. Liu, L. Xiong, Z. Liu* , H. Hong, and D. W. K. Ng, BRIDGE: Bayesian Reconstruction With Innovation-Driven Graph Exploration for Channel Acquisition and Port Selection in MIMO-FAS, ***submitted to IEEE Transactions on Communications***, under review. 
+
+[4]	Z. Liu, J. Zhang, J. Lu, and J. Wang, Frequency-Selective Cell-Free Pinching-Antenna AirComp: Differential Delay Modeling and Joint Design, ***submitted to IEEE Journal on Selected Areas in Communications***, under review.
+
+
